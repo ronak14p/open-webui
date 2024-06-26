@@ -1,0 +1,11 @@
+requirements.txt
+
+pyinstaller     
+fastapi
+requests
+aiohttp
+asyncio
+json
+logging
+pydantic
+starlette
